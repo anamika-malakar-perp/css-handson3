@@ -166,6 +166,7 @@ input[type="number" i] {
     bottom: 40px;
     right: 0;
     left: 0;
+    box-shadow: 6px 6px purple;
 }
 
 .exciting {
