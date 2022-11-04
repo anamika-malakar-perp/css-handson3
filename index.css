@@ -1,0 +1,184 @@
+body {
+    background-color: #9d9b9b;
+}
+
+.welcome-note {
+    margin: auto;
+    width: 20%;
+    text-align: center;
+    padding: 15px;
+    line-height: 25px;
+}
+
+.welcome-note span {
+    font-size: 25px;
+    color: #bf2727;
+    font-weight: bolder;
+    text-shadow: 2px 2px #e87b7b;
+}
+
+.details {
+    border: 5px solid green;
+}
+
+.box-border {
+    border-radius: 28px;
+    border: 5px solid red;
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    margin-right: 45px;
+    box-shadow: 6px 6px purple;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+}
+
+.upper-box-border {
+    border-radius: 6px;
+    border: 5px solid red;
+    background-color: white;
+    box-shadow: 5px 5px purple;
+}
+
+.upper-details-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 55px;
+}
+
+.details-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.address {
+    padding-top: 35px;
+    text-align: center;
+    font-size: 27px;
+    line-height: 41px;
+    color: #720a0a;
+    font-weight: bold;
+    text-shadow: 2px 2px #e87b7b;
+}
+
+.grocery {
+    text-align: center;
+    padding-top: 74px;
+}
+
+.deals {
+    padding-top: 10px;
+    font-size: 23px;
+    color: #501b11;
+    font-weight: bold;
+    text-shadow: 2px 2px #e87b7b;
+}
+
+.rate-form {
+    text-align: center;
+}
+
+.rate-form h3 {
+    font-size: 23px;
+    text-shadow: 2px 2px #e87b7b;
+}
+
+input[type='submit'] {
+    background-color: red;
+    border-radius: 17px;
+}
+
+.store {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+}
+
+.welcome-store {
+    background-color: green;
+    border: 5px solid purple;
+    width: 739px;
+    margin: auto;
+    height: 675px;
+    padding: 5px;
+}
+
+.fruits {
+    background-color: #d6d695;
+    width: 533px;
+    line-height: 13px;
+    text-align: center;
+    padding: 0 5px;
+    height: 296px;
+    margin-right: 7px;
+}
+
+.vegetables {
+    background-color: #d6d695;
+    width: 533px;
+    line-height: 13px;
+    text-align: center;
+    padding: 0 5px;
+    height: 296px;
+}
+
+#fruits-vege-section {
+    margin-top: 20px;
+    position: relative;
+}
+
+.welcome-store-note {
+    font-size: 24px;
+    text-align: center;
+}
+
+.heading-for-section {
+    font-size: 20px;
+}
+
+.other-items {
+    position: absolute;
+    background-color: #d6d695;
+    line-height: 11px;
+    text-align: center;
+    left: 385px;
+    margin-top: 15px;
+    width: 736px;
+    padding: 0 5px;
+}
+
+input[type="number" i] {
+    text-align: center;
+}
+
+.discount {
+    display: flex;
+    flex-direction: row;
+    border: 5px solid #c53117;
+    border-radius: 10px;
+    width: 30%;
+    margin: auto;
+    background-color: #7acd7a;
+    padding: 10px;
+    position: fixed;
+    bottom: 40px;
+    right: 0;
+    left: 0;
+}
+
+.exciting {
+    font-size: 30px;
+    text-align: center;
+    margin-right: 14px;
+}
+
+.discount-upto {
+    font-size: 20px;
+    text-align: center;
+}
+
+label {
+    text-shadow: 2px 2px #e87b7b;
+}
